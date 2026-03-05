@@ -32,6 +32,5 @@ To the extent permitted by law, the App is provided "as is" without warranties, 
 We may update these Terms. Continued use after updates means you accept the revised Terms.
 
 ## 10. Contact
-- Support: `support@mypanda.app`
-- Privacy: `privacy@mypanda.app`
-
+- Support: `abhijit.93@hotmail.com`
+- Privacy: `abhijit.93@hotmail.com`

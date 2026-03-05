@@ -41,6 +41,5 @@ The App is intended for use by parents and caregivers, not by children directly.
 We use reasonable safeguards, but no system is fully secure.
 
 ## 9. Contact
-- Support: `support@mypanda.app`
-- Privacy requests: `privacy@mypanda.app`
-
+- Support: `abhijit.93@hotmail.com`
+- Privacy requests: `abhijit.93@hotmail.com`
