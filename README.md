@@ -4,8 +4,8 @@ This folder is an independent git repository intended for publishing legal pages
 
 ## Files
 - `index.html`
-- `terms/index.html`
-- `privacy/index.html`
+- `terms.html`
+- `privacy.html`
 
 ## GitHub Pages (quick setup)
 1. In the `MyPanda-legal` repo settings, enable GitHub Pages.
